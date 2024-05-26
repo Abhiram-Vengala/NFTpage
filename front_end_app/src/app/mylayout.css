@@ -1,0 +1,68 @@
+*{
+    background-color: white;
+}
+.wallet{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.wallet_button{
+    margin-right: 40px;
+    margin-top:20px;
+    width: 150px;
+    height:40px;
+    background-color: rgb(205, 90, 18);
+    color: antiquewhite;
+    border: none;
+    border-radius: 5px;
+}
+#total{
+    margin-right: 20px;
+    font-size: 1.3em;
+    font-weight: lighter;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#rem{
+    margin-left: 20px;
+    font-size: 1.3em;
+    font-weight: lighter;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+#imgae{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.nft{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+#nftname{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    font-weight: lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mint{
+    width: 150px;
+    height:40px;
+    background-color: rgb(205, 90, 18);
+    color: antiquewhite;
+    border: none;
+    border-radius: 5px; 
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
